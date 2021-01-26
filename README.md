@@ -1,2 +1,2 @@
-# First-Project
- My First Project using HTML & CSS
+# Web & Graphic Designer
+Landing Page using HTML & CSS
